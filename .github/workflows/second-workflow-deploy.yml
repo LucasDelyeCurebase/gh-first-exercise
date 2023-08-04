@@ -1,4 +1,4 @@
-name: Running Unit Tests
+name: Deploy Process
 on: [push, workflow_dispatch]
 jobs:
   lint:
